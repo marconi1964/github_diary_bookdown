@@ -1,0 +1,6 @@
+book_filename: "My_diary_by_marconi1964"
+output_dir: "../marconi1964.github.io/my_diary"
+delete_merged_file: true
+language:
+  ui:
+    chapter_name: ""

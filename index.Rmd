@@ -1,0 +1,16 @@
+--- 
+title: "My diary"
+author: "marconi1964@yahoo.com or marconi.jiang@gmail.com"
+date: "`r Sys.Date()`"
+site: bookdown::bookdown_site
+documentclass: book
+bibliography: [book.bib, packages.bib]
+biblio-style: apalike
+link-citations: yes
+description: "My diary"
+---
+
+# 前言
+  
+<span style="color:blue; font-size:1.5em"> 別人用 Facebook 加相機 寫美食日記, 我用 github 紀錄心情</span>
+
